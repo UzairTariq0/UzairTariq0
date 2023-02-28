@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [uzairtariq0700@gmail.com](mailto:uzairtariq0700@gmail.com)
-* 🚀  I'm currently working on [an Ecommerce App](https://uz-ecommerce-app.netlify.app/)
+* 🚀  I'm currently working on [an Ecommerce App](https://seecommerccce-app.netlify.app/)
 * 🧠  I'm learning React JS and Redux
 * 🤝  I'm open to collaborating on interesting projects as a developer
 
