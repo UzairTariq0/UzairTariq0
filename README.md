@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uzair Tariq
 ===================================================================================================================================
 
-Frontend Developer
+Web Developer
 ------------------
 
 * ✉️  You can contact me at [uzair.tariq210@gmail.com](mailto:uzair.tariq210@gmail.com)
