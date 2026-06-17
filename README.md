@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-* 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [uzairtariq0700@gmail.com](mailto:uzairtariq0700@gmail.com)
-* 🚀  I'm currently working on Next JS
-* 🧠  I'm learning Next JS and Typescript
+* 🚀  I'm currently working on Full Stack Development
+* 🧠  I'm learning AI Engineering
 * 🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
